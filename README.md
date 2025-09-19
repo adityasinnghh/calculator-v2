@@ -21,8 +21,8 @@ A refined and more advanced version of my calculator project, designed with a cl
 
 ## 🛠️ Tech Stack
 
-* **Language:** Kotlin / Java (update based on what you used)
-* **UI:** XML Layouts / Jetpack Compose
+* **Language:** Kotlin
+* **UI:** Jetpack Compose
 * **Platform:** Android Studio
 
 ---
